@@ -1,2 +1,2 @@
 # Irvis-Windows
- Irvis window not commercial project
+ Irvis Window not commercial project
